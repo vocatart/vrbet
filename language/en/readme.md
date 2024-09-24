@@ -1,6 +1,6 @@
-#English Phoneme Set
+# English Phoneme Set
 
-##Vowels
+## Vowels
 
 0 = unstressed
 1 = stressed (primary stress in speech)
@@ -8,7 +8,7 @@
 
 | IPA | Symbol | Example 1 |              | Example 2 |                  |
 |:---:|:------:|:---------:|:-------------|:---------:|:-----------------|
-|  æ  |   a    |   pat     | p1 a1 t]     |   bag     | b1 a1 g3         |
+|  æ  |   a    |   pat     | p1 a1 t     |   bag     | b1 a1 g3         |
 |  ɛ  |	  e    |   pet     | p1 e1 t3     |   beg     | b1 e1 g3         |
 |  ɪ  |   i    |   pit     | p1 i1 t3     |   big     | b1 i1 g3         |
 |  ɒ  |   o    |   pot     | p1 o1 t3     |   bog     | b1 o1 g3         |
@@ -27,15 +27,15 @@
 |  ɔɪ |   oy   |   point   | p1 oy1 n3 t3 |   boy     | b1 oy1           |
 |  əi |   xy   |   happy   | h1 a1 p2 xy0 |   before  | b1 xy0 f2 ow1 r3 |
 
-"x" represents /ə/ when unstressed.
+- "x" represents /ə/ when unstressed.
 
-"xy" is not a true phoneme in Modern English, but a variation between unstressed /i, ɪ, e, ə, aɪ/
+- "xy" is not a true phoneme in Modern English, but a variation between unstressed /i, ɪ, e, ə, aɪ/
 Referred by linguists as the "happY vowel", this sound occurs as the weak vowel at the end of words such as "happy, coffee, taxi"
 and also at the end of certain prefixes such as "be-, de-, re-, pre-, anti-, demi-"
 
-Not all vowel phonemes are fully distinguished in different dialects. View the wiki for more details.
+- Not all vowel phonemes are fully distinguished in different dialects. View the wiki for more details.
 
-##Consonants
+## Consonants
 
 1 = word initial onset
 2 = word medial onset
@@ -68,7 +68,7 @@ Not all vowel phonemes are fully distinguished in different dialects. View the w
 |  w  |   w    |   way     | w1 ey1        |  woo        | w1 uw1             |
 |  h  |   h    |   hay     | h1 ey1        |  hue        | h1 ew1             |
 
-###Non-phonemic/Marginal Consonants
+### Non-phonemic/Marginal Consonants
 
 | IPA | Symbol | Example 1 |                          | Example 2    |                     |
 |:---:|:------:|:---------:|:-------------------------|:------------:|:--------------------|
@@ -81,5 +81,5 @@ Not all vowel phonemes are fully distinguished in different dialects. View the w
 |  r  |   rr   | rules     | rr1 uw1 l3 z3            |  sierra      | s1 iy0 e1 rr2 x0    |
 |  ə̯  |   x    | pair      | p1 ey1 x3                |  pier        | p1 iy1 x3           |
 
-These sounds are only present in interjections, loanwords from relevant languages, or are not phonemic in any standard dialects.
+- These sounds are only present in interjections, loanwords from relevant languages, or are not phonemic in any standard dialects.
 View the wiki for more information on their usage.
