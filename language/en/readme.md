@@ -81,5 +81,5 @@ and also at the end of certain prefixes such as "be-, de-, re-, pre-, anti-, dem
 |  r  |   rr   | rules     | rr1 uw1 l3 z3            |  sierra      | s1 iy0 e1 rr2 x0    |
 |  ə̯  |   x    | pair      | p1 ey1 x3                |  pier        | p1 iy1 x3           |
 
-- These sounds are only present in interjections, loanwords from relevant languages, or are not phonemic in any standard dialects.
+- These sounds are only present in interjections, loanwords from relevant languages, and are not phonemic in any standard dialects.
 View the wiki for more information on their usage.
