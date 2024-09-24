@@ -2,13 +2,13 @@
 
 ## Vowels
 
-0 = unstressed
-1 = stressed (primary stress in speech)
-2 = secondary stress (speech only)
+0 = unstressed  
+1 = stressed (primary stress in speech)  
+2 = secondary stress (speech only)  
 
 | IPA | Symbol | Example 1 |              | Example 2 |                  |
 |:---:|:------:|:---------:|:-------------|:---------:|:-----------------|
-|  æ  |   a    |   pat     | p1 a1 t     |   bag     | b1 a1 g3         |
+|  æ  |   a    |   pat     | p1 a1 t      |   bag     | b1 a1 g3         |
 |  ɛ  |	  e    |   pet     | p1 e1 t3     |   beg     | b1 e1 g3         |
 |  ɪ  |   i    |   pit     | p1 i1 t3     |   big     | b1 i1 g3         |
 |  ɒ  |   o    |   pot     | p1 o1 t3     |   bog     | b1 o1 g3         |
@@ -37,9 +37,9 @@ and also at the end of certain prefixes such as "be-, de-, re-, pre-, anti-, dem
 
 ## Consonants
 
-1 = word initial onset
-2 = word medial onset
-3 = syllable coda
+1 = word initial onset  
+2 = word medial onset  
+3 = syllable coda  
 
 | IPA | Symbol | Example 1 |               | Example 2   |                    |
 |:---:|:------:|:---------:|:--------------|:-----------:|:-------------------|
