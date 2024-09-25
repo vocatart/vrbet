@@ -2,8 +2,8 @@
 
 ## Vowels
 0 = Unstressed Nonsyllabic  
-1 = Stressed 
-2 = Unstressed Syllabic
+1 = Stressed  
+2 = Unstressed Syllabic  
 
 | IPA | Symbol | Example 1 |             | Example 2 |             |
 |:---:|:------:|:---------:|:------------|:---------:|:------------|
@@ -18,9 +18,9 @@
 - Nonsyllabic /i, u/ are frequently transcribed as /j, w/
 
 ## Consonants
-1 = Word Initial Onset
-2 = Word Medial Onset
-3 = Syllable Coda
+1 = Word Initial Onset  
+2 = Word Medial Onset  
+3 = Syllable Coda  
 
 | IPA | Symbol | Example 1 |                    | Example 2 |              |
 |:---:|:------:|:---------:|:-------------------|:---------:|:-------------|
@@ -50,7 +50,7 @@
   The distinction is still robust in regions that contain /ʎ/ as a phoneme in their native languages such as in Andean Spanish,
   Or also where it was approximated as /lj/ as in the Phillipines.
 
-### Marginal Consonants
+### Non-Phonemic/Marginal Consonants
 
 | IPA | Symbol | Example 1 |                      | Example 2 |                       |
 |:---:|:------:|:---------:|:---------------------|:---------:|:----------------------|
@@ -60,3 +60,6 @@
 |  ɹ  |   rh   |  rocker   | rh1 o1 k2 e2 rh3     |  rugby    | rh1 a1 g3 b2 i2       |
 |  h  |   h    |  hobby    | h1 o1 b2 i2          |  hippy    | h1 i1 p2 i2           |
 |  ʔ  |   q    |  ma' alto | m1 a1 q3 a1 l3 t2 o2 |  e'pañol  | e2 q3 p2 a2 nh2 o1 l3 |
+
+- These sounds are used in dialect-specific allophones or in English loanwords by speakers who distinguish their pronunciation from
+  that of native Spanish phonemes.
