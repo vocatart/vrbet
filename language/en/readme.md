@@ -63,23 +63,23 @@ and also at the end of certain prefixes such as "be-, de-, re-, pre-, anti-, dem
 |  n  |   n    |   nun     | n1 u1 n3      |  new        | n1 ew1             |
 |  ŋ  |   ng   |   lung    | l1 u1 ng3     |  long       | l1 o1 ng3          |
 |  l  |   l    |   lull    | l1 u1 l3      |  lieu       | l1 ew1             |
-|  r  |   r    |   rare    | r1 ey1 r3     |  rue        | r1 ew1             |
+|  ɹ  |   r    |   rare    | r1 ey1 r3     |  rue        | r1 ew1             |
 |  j  |   y    |   yay     | y1 ey1        |  yew        | y1 ew1             |
 |  w  |   w    |   way     | w1 ey1        |  woo        | w1 uw1             |
 |  h  |   h    |   hay     | h1 ey1        |  hue        | h1 ew1             |
 
 ### Non-phonemic/Marginal Consonants
 
-| IPA | Symbol | Example 1 |                          | Example 2    |                     |
-|:---:|:------:|:---------:|:-------------------------|:------------:|:--------------------|
-|  ʍ  |   wh   | whey      | wh1 ey1                  |  whew        | wh1 ew1             |
-|  x  |   kh   | loch      | l1 o1 kh3                |  ugh         | u1 kh3              |
-|  ɬ  |   lh   | llan      | lh1 a1 n3                |  Llwelyn     | lh1 ow0 e1 l2 i0 n3 |
-|  ʀ  |   rh   | croissant | k1 rh1 w1 aa1 s2 aa2 nh3 |  rouge       | rh1 uw1 zh3         |
-|  ◌̃  |   nh   | croissant | k1 rh1 w1 aa1 s2 aa2 nh3 |  uh-huh      | u0 nh3 h1 u1 nh3    |
-|  ʔ  |   q    | hawai'i   | h1 x0 w2 ay1 q2 iy0      |  uh-oh       | u1 q2 ow2           |
-|  r  |   rr   | rules     | rr1 uw1 l3 z3            |  sierra      | s1 iy0 e1 rr2 x0    |
-|  ə̯  |   x    | pair      | p1 ey1 x3                |  yeah        | y1 e1 x3            |
+| IPA | Symbol | Example 1   |                          | Example 2    |                     |
+|:---:|:------:|:-----------:|:-------------------------|:------------:|:--------------------|
+|  ʍ  |   wh   | whey        | wh1 ey1                  |  whew        | wh1 ew1             |
+|  x  |   kh   | loch        | l1 o1 kh3                |  ugh         | u1 kh3              |
+|  ɬ  |   lh   | llan        | lh1 a1 n3                |  Llywelyn    | lh1 ow0 e1 l2 i0 n3 |
+|  ʀ  |   rh   | croissant   | k1 rh1 w1 aa1 s2 aa2 nh3 |  rouge       | rh1 uw1 zh3         |
+|  ◌̃  |   nh   | croissant   | k1 rh1 w1 aa1 s2 aa2 nh3 |  uh-huh      | u0 nh3 h1 u1 nh3    |
+|  ʔ  |   q    | hawai'i     | h1 x0 w2 ay1 q2 iy0      |  uh-oh       | u1 q2 ow2           |
+|  r  |   rr   | rules       | rr1 uw1 l3 z3            |  sierra      | s1 iy0 e1 rr2 x0    |
+|  ə̯  |   x    | pair        | p1 ey1 x3                |  yeah        | y1 e1 x3            |
 
 - These sounds are only present in interjections, loanwords from relevant languages, and are not phonemic in any standard dialects.
 View the wiki for more information on their usage.
