@@ -8,7 +8,7 @@
 
 | IPA | Symbol | Example 1 |              | Example 2 |                  |
 |:---:|:------:|:---------:|:-------------|:---------:|:-----------------|
-|  æ  |   a    |   pat     | p1 a1 t      |   bag     | b1 a1 g3         |
+|  æ  |   a    |   pat     | p1 a1 t3      |   bag     | b1 a1 g3         |
 |  ɛ  |	  e    |   pet     | p1 e1 t3     |   beg     | b1 e1 g3         |
 |  ɪ  |   i    |   pit     | p1 i1 t3     |   big     | b1 i1 g3         |
 |  ɒ  |   o    |   pot     | p1 o1 t3     |   bog     | b1 o1 g3         |
