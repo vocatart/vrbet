@@ -64,10 +64,10 @@
 |  dz  |   dz   |   づ・ヅ   | dz1 u1 |　づぁ・ヅァ | dz1 a1 |
 |  β   |   v    |   ゔ・ヴ   | v1 u1  |　ゔゅ・ヴュ | v1 y1 u1 |
 |  ŋ   |   ng   |   か゚・カ゚   | ng1 a1 |　き゚ゅ・キ゚ュ | ng1 y1 u1 |
-|  l   |   l    |  ら゜・ラ゜| ng1 a1 | り゜ゅ・リ゜ュ | ng1 y1 u1 |
+|  l   |   l    |  ら゜・ラ゜| l1 a1 | り゜ゅ・リ゜ュ | l1 y1 u1 |
 
-- /dʑ/ and /dz/ have merged with /ʑ/ and /z/ in Standard Japanese, often in free variation resulting in two phonemes /dʑ~ʑ/ and /dz~z/
-  Some regional dialects may still distinguish all four consonants, while others even merge all four into one.
+- /dʑ/ and /dz/ have merged with /ʑ/ and /z/ in Standard Japanese, often in free variation resulting in two phonemes /dʑ ~ ʑ/ and /dz ~ z/
+  Some regional dialects may still distinguish all four consonants, while others may merge all four into one.
 - [β] is a fricative realization of /b/ used only in the approximation of foreign /v/ in loanwords such as ヴァイオリン "violin".  
   Most speakers do not distinguish this sound from a stop /b/
 - [ŋ] is an allophone of word-medial /g/. Its presence in speech is associated with prestigious Eastern Japanese dialect,  
