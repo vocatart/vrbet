@@ -58,8 +58,8 @@
 
 ### Non-Phonemic/Marginal Consonants
 
-| IPA  | Symbol | Example 1 |        | Example 2        |
-|:----:|:------:|:---------:|:-------|:----------:|:------|
+| IPA  | Symbol | Example 1 |        | Example 2  |        |
+|:----:|:------:|:---------:|:-------|:----------:|:-------|
 |  dʑ  |   dj   |   ぢ・ヂ   | dj1 i1 |　ぢゅ・ヂュ | dj1 u1 |
 |  dz  |   dz   |   づ・ヅ   | dz1 u1 |　づぁ・ヅァ | dz1 a1 |
 |  β   |   v    |   ゔ・ヴ   | v1 u1  |　ゔゅ・ヴュ | v1 y1 u1 |
