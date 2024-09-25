@@ -21,8 +21,8 @@
 |  N  |   nn   |   ん・ン  | nn1 |
 |  Q  |   q    |   っ・ッ  | q1  |
 
-- While not technically vowels, the sounds /N/ and /Q/ represent a moraic nasal and obstruent respectively.
-  these sounds are typically pronounced homorganic with the consonant they are followed by. When followed by a vowel or pause,
+- While not technically vowels, the sounds /N/ and /Q/ represent a moraic nasal and obstruent respectively.  
+  These sounds are typically pronounced homorganic with the following consonant. When followed by a vowel or pause,
   /N/ is commonly realized as a nasalized glide, and /Q/ is realized as a glottal stop.
 
  ## Consonants
