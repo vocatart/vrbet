@@ -1,6 +1,7 @@
 # Spanish VrBet
 
 ## Vowels
+
 0 = Unstressed Nonsyllabic  
 1 = Stressed  
 2 = Unstressed Syllabic  
@@ -18,6 +19,7 @@
 - Nonsyllabic /i, u/ are frequently transcribed as /j, w/
 
 ## Consonants
+
 1 = Word Initial Onset  
 2 = Word Medial Onset  
 3 = Syllable Coda  

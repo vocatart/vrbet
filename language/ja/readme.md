@@ -1,10 +1,10 @@
 # Japanese VrBet
 
 ## Vowels
+
 0 = Devoiced  
 1 = Voiced High Tone  
 2 = Voiced Low Tone (Speech only)  
-
 
 | IPA | Symbol | Example 1 |   | Example 2 |       |
 |:---:|:------:|:---------:|:--|:---------:|:------|
@@ -25,7 +25,7 @@
   These sounds are typically pronounced homorganic with the following consonant. When followed by a vowel or pause,
   /N/ is commonly realized as a nasalized glide, and /Q/ is realized as a glottal stop.
 
- ## Consonants
+## Consonants
   
 1 = Word Initial Onset  
 2 = Word Medial Onset  
@@ -74,6 +74,4 @@
   similar to old RP in England. Its actual usage in day-to-day contemporary Japanese is waning.
 - [l] is a possible realization of /ɾ/, although it is rarely distinguished.  
   Japanese speakers who distinguish it are typically fluent in English or another secondary language with /l/ as a phoneme.
-  
-  
   
