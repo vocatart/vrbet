@@ -70,7 +70,7 @@ Due to the phonetic nature of hangul, there is a direct equivalence with the tra
 |  ɥe |  ywe   |   ㆋ   |
 |  jø |  yoe   |   ㆉ   |
 
-- /ɒ/ is a vowel from Middle Korean that has merged with /a/ in all dialects of mainland Korea. However its use still persists in Jeju.
+- /ɒ/ is a vowel from Middle Korean that has merged with /a/ in all dialects of mainland Korea. Its use still persists in Jeju.
 - /ɥʌ/ occurs as a reduction of the sequence /ɥi.ʌ/ such as in "사귀어", "쉬어", "휘어"  
   and is commonly represented with the grapheme "ㅕ" such as "사겨", "셔", "혀"
 - /ɥe/ is used in the sequence /sɥe/ written as "쉐" to transcribe /ʃe, ʃɛ, ʃæ/ in English loanwords.
