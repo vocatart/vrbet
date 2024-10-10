@@ -2,9 +2,9 @@
 
 ## Vowels
 
-0 = Devoiced  
-1 = Voiced High Tone  
-2 = Voiced Low Tone (Speech only)  
+0 = Devoiced (SVS/TTS)  
+1 = Voiced (SVS), High Tone (TTS)  
+2 = Low Tone (TTS)
 
 | IPA | Symbol | Example 1 |   | Example 2 |       |
 |:---:|:------:|:---------:|:--|:---------:|:------|
