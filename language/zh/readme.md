@@ -59,9 +59,9 @@
 | yo  |   ywo  |   yuo  |   ㄩㄛ |
 
 ## Consonants
-1 = Word Initial Onset
-2 = Word Medial Onset
-3 = Coda (Erhua Only)
+1 = Word Initial Onset  
+2 = Word Medial Onset  
+3 = Coda (Erhua Only)  
 
 | IPA     | Symbol | Pinyin    | Zhuyin |
 |:-------:|:------:|:---------:|:------:|
