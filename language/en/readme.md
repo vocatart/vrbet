@@ -2,9 +2,9 @@
 
 ## Vowels
 
-0 = (SVS/TTS) Unstressed  
-1 = (SVS) Stressed, (TTS) Primary Stress  
-2 = (TTS) Secondary Stress  
+0 = Unstressed (SVS/TTS)  
+1 = Stressed (SVS), Primary Stress (TTS)  
+2 = Secondary Stress (TTS)  
 
 | IPA | Symbol | Example 1 |              | Example 2 |                  |
 |:---:|:------:|:---------:|:-------------|:---------:|:-----------------|
