@@ -2,9 +2,9 @@
 
 ## Vowels
 
-0 = Unstressed Nonsyllabic  
-1 = Stressed  
-2 = Unstressed Syllabic  
+0 = (SVS/TTS) Nonsyllabic  
+1 = (SVS/TTS) Syllabic Stressed  
+2 = (SVS/TTS) Syllabic Unstressed
 
 | IPA | Symbol | Example 1 |             | Example 2 |             |
 |:---:|:------:|:---------:|:------------|:---------:|:------------|
@@ -14,9 +14,9 @@
 |  o  |   o    |   poso    | p1 o1 s2 o2 |   posó    | p1 o2 s2 o1 |
 |  u  |   u    |   pujo    | p1 u1 j2 o2 |   pujó    | p1 u2 j2 o1 |
 
-- Unstressed /e, i, o, u/ commonly become glides when followed by a vowel of equivalent or more open height, even across word boundaries.
-- Unstressed /i/ and /u/ also become glides when following /a, e, o/
-- Nonsyllabic /i, u/ are frequently transcribed as /j, w/
+- Unstressed /e, i, o, u/ commonly become rising glides when followed by a vowel of equivalent or more open height, even across word boundaries.
+- Unstressed /i/ and /u/ become falling glides when preceded by /a, e, o/
+- Diphthong /iu/ is always [ju]. Diphthong /ui/ is most commonly [wi], but may also be [uj] in words written with "uy" as in "muy"
 
 ## Consonants
 
