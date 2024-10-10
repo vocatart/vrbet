@@ -2,9 +2,9 @@
 
 ## Vowels
 
-0 = (SVS/TTS) Nonsyllabic  
-1 = (SVS/TTS) Syllabic Stressed  
-2 = (SVS/TTS) Syllabic Unstressed
+0 = Nonsyllabic (SVS/TTS)  
+1 = Stressed (SVS/TTS)    
+2 = Unstressed (SVS/TTS)
 
 | IPA | Symbol | Example 1 |             | Example 2 |             |
 |:---:|:------:|:---------:|:------------|:---------:|:------------|
