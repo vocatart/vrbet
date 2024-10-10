@@ -1,11 +1,11 @@
 # Chinese (Mandarin) VrBet
 
 ## Vowels
-0 = Unstressed (SVS), Neutral Tone (TTS)
-1 = Stressed (SVS), High Tone  (TTS)
-2 = Rising Tone (TTS)
-3 = Low Tone (TTS)
-4 = Falling Tone (TTS)
+0 = Unstressed (SVS), Neutral Tone (TTS)  
+1 = Stressed (SVS), High Tone  (TTS)  
+2 = Rising Tone (TTS)  
+3 = Low Tone (TTS)  
+4 = Falling Tone (TTS)  
 
 | IPA | Symbol | Pinyin | Zhuyin |
 |:---:|:------:|:------:|:------:|
