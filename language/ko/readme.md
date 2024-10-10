@@ -6,8 +6,8 @@ For example the word for the Korean language is written as "한국어", but in p
 Due to the phonetic nature of hangul, there is a direct equivalence with the transcription of korean phonemes.
 
 ## Vowels
-1 = Short Vowel  
-2 = Long Vowel (Speech Only)  
+1 = Short Vowel (TTS)   
+2 = Long Vowel (TTS)
 
 | IPA | Symbol | Hangul |
 |:---:|:------:|:------:|
