@@ -2,9 +2,9 @@
 
 ## Vowels
 
-0 = unstressed  
-1 = stressed (primary stress in speech)  
-2 = secondary stress (speech only)  
+0 = (SVS/TTS) Unstressed  
+1 = (SVS) Stressed, (TTS) Primary Stress
+2 = (TTS) Secondary Stress  
 
 | IPA | Symbol | Example 1 |              | Example 2 |                  |
 |:---:|:------:|:---------:|:-------------|:---------:|:-----------------|
@@ -30,16 +30,14 @@
 - "x" represents /ə/ when unstressed.
 
 - "xy" is not a true phoneme in Modern English, but a variation between unstressed /i, ɪ, e, ə, aɪ/
-Referred by linguists as the "happY vowel", this sound occurs as the weak vowel at the end of words such as "happy, coffee, taxi"
-and also at the end of certain prefixes such as "be-, de-, re-, pre-, anti-, demi-"
 
 - Not all vowel phonemes are fully distinguished in different dialects. View the wiki for more details.
 
 ## Consonants
 
-1 = word initial onset  
-2 = word medial onset  
-3 = syllable coda  
+1 = Word Initial Onset  
+2 = Word Medial Onset  
+3 = Syllable Coda  
 
 | IPA | Symbol | Example 1 |               | Example 2   |                    |
 |:---:|:------:|:---------:|:--------------|:-----------:|:-------------------|
@@ -77,7 +75,6 @@ and also at the end of certain prefixes such as "be-, de-, re-, pre-, anti-, dem
 |  ɬ  |   lh   | llan        | lh1 a1 n3                |  Llywelyn    | lh1 ow0 e1 l2 i0 n3 |
 |  ʀ  |   rh   | croissant   | k1 rh1 w1 aa1 s2 aa2 nh3 |  rouge       | rh1 uw1 zh3         |
 |  ◌̃  |   nh   | croissant   | k1 rh1 w1 aa1 s2 aa2 nh3 |  uh-huh      | u0 nh3 h1 u1 nh3    |
-|  ʔ  |   q    | hawai'i     | h1 x0 w2 ay1 q2 iy0      |  uh-oh       | u1 q2 ow2           |
 |  r  |   rr   | rules       | rr1 uw1 l3 z3            |  sierra      | s1 iy0 e1 rr2 x0    |
 |  ə̯  |   x    | pair        | p1 ey1 x3                |  yeah        | y1 e1 x3            |
 
