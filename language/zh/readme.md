@@ -86,7 +86,7 @@
 | tʂʰ     |   ch   |   ch      |   ㄔ   |
 | ʂ       |   sh   |   sh      |   ㄕ   |
 | ʐ       |   rh   |   r       |   ㄖ   |
-| ɽ       |   r    |   r       |   ㄦ   |
+| ɻ       |   r    |   r       |   ㄦ   |
 
 
 ### Marginal Consonants
