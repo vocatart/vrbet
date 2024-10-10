@@ -1,0 +1,608 @@
+a	a1
+b	q1
+ba	b1 a1
+be	b1 e1
+bi	b1 i1
+bo	b1 o1
+bu	b1 u1
+bya	b1 y1 a1
+bye	b1 y1 e1
+byo	b1 y1 o1
+byu	b1 y1 u1
+c	q1
+cha	ch1 a1
+che	ch1 e1
+chi	ch1 i1
+cho	ch1 o1
+chu	ch1 u1
+d	q1
+da	d1 a1
+de	d1 e1
+di	d1 i1
+dja	dj1 a1
+dje	dj1 e1
+dji	dj1 i1
+djo	dj1 o1
+dju	dj1 u1
+do	d1 o1
+du	d1 u1
+dya	d1 y1 a1
+dye	d1 y1 e1
+dyo	d1 y1 o1
+dyu	d1 y1 u1
+dza	dz1 a1
+dze	dz1 e1
+dzi	dz1 i1
+dzo	dz1 o1
+dzu	dz1 u1
+e	e1
+fa	f1 a1
+fe	f1 e1
+fi	f1 i1
+fo	f1 o1
+fu	f1 u1
+fya	f1 y1 a1
+fye	f1 y1 e1
+fyo	f1 y1 o1
+fyu	f1 y1 u1
+g	q1
+ga	g1 a1
+ge	g1 e1
+gi	g1 i1
+go	g1 o1
+gu	g1 u1
+gwa	g1 w1 a1
+gwe	g1 w1 e1
+gwi	g1 w1 i1
+gwo	g1 w1 o1
+gya	g1 y1 a1
+gye	g1 y1 e1
+gyo	g1 y1 o1
+gyu	g1 y1 u1
+ha	h1 a1
+he	h1 e1
+hi	h1 i1
+ho	h1 o1
+hu	h1 u1
+hya	h1 y1 a1
+hye	h1 y1 e1
+hyo	h1 y1 o1
+hyu	h1 y1 u1
+i	i1
+j	q1
+ja	j1 a1
+je	j1 e1
+ji	j1 i1
+jo	j1 o1
+ju	j1 u1
+k	q1
+ka	k1 a1
+ke	k1 e1
+ki	k1 i1
+ko	k1 o1
+ku	k1 u1
+kwa	k1 w1 a1
+kwe	k1 w1 e1
+kwi	k1 w1 i1
+kwo	k1 w1 o1
+kya	k1 y1 a1
+kye	k1 y1 e1
+kyo	k1 y1 o1
+kyu	k1 y1 u1
+la	l1 a1
+le	l1 e1
+li	l1 i1
+lo	l1 o1
+lu	l1 u1
+lya	l1 y1 a1
+lye	l1 y1 e1
+lyo	l1 y1 o1
+lyu	l1 y1 u1
+m	nn1
+ma	m1 a1
+me	m1 e1
+mi	m1 i1
+mo	m1 o1
+mu	m1 u1
+mya	m1 y1 a1
+mye	m1 y1 e1
+myo	m1 y1 o1
+myu	m1 y1 u1
+n	nn1
+na	n1 a1
+ne	n1 e1
+ni	n1 i1
+no	n1 o1
+nu	n1 u1
+nya	n1 y1 a1
+nye	n1 y1 e1
+nyo	n1 y1 o1
+nyu	n1 y1 u1
+o	o1
+p	q1
+pa	p1 a1
+pe	p1 e1
+pi	p1 i1
+po	p1 o1
+pu	p1 u1
+pya	p1 y1 a1
+pye	p1 y1 e1
+pyo	p1 y1 o1
+pyu	p1 y1 u1
+q	q1
+ra	r1 a1
+re	r1 e1
+ri	r1 i1
+ro	r1 o1
+ru	r1 u1
+rya	r1 y1 a1
+rye	r1 y1 e1
+ryo	r1 y1 o1
+ryu	r1 y1 u1
+sa	s1 a1
+se	s1 e1
+sha	sh1 a1
+she	sh1 e1
+shi	sh1 i1
+sho	sh1 o1
+shu	sh1 u1
+si	s1 i1
+so	s1 o1
+su	s1 u1
+t	q1
+ta	t1 a1
+te	t1 e1
+ti	t1 i1
+to	t1 o1
+tsa	ts1 a1
+tse	ts1 e1
+tsi	ts1 i1
+tso	ts1 o1
+tsu	ts1 u1
+tu	t1 u1
+tya	t1 y1 a1
+tye	t1 y1 e1
+tyo	t1 y1 o1
+tyu	t1 y1 u1
+u	u1
+va	v1 a1
+ve	v1 e1
+vi	v1 i1
+vo	v1 o1
+vu	v1 u1
+vya	v1 y1 a1
+vye	v1 y1 e1
+vyu	v1 y1 u1
+vyu	v1 y1 o1
+wa	w1 a1 
+we	w1 e1
+wi	w1 i1
+wo	w1 o1
+wu	w1 u1
+ya	y1 a1
+ye	y1 e1
+yi	y1 i1
+yo	y1 o1
+yu	y1 u1
+za	z1 a1
+ze	z1 e1
+zi	z1 i1
+zo	z1 o1
+zu	z1 u1
+あ	a1
+ア	a1
+い	i1
+イ	i1
+いぇ	y1 e1
+イェ	y1 e1
+う	u1
+ウ	u1
+ゔ	v1 u1
+ヴ	v1 u1
+うぁ	w1 a1
+ウァ	w1 a1
+ゔぁ	v1 a1
+ヴァ	v1 a1
+ヴぁ	v1 a1
+うぃ	w1 i1
+ウィ	w1 i1
+ゔぃ	v1 i1
+ヴィ	v1 i1
+ヴぃ	v1 i1
+うぇ	w1 e1
+ウェ	w1 e1
+ゔぇ	v1 e1
+ヴェ	v1 e1
+ヴぇ	v1 e1
+うぉ	w1 o1
+ウォ	w1 o1
+ゔぉ	v1 o1
+ヴォ	v1 o1
+ヴぉ	v1 o1
+ゔゃ	v1 y1 a1
+ヴャ	v1 y1 a1
+ヴゃ	v1 y1 a1
+ゔゅ	v1 y1 u1
+ヴュ	v1 y1 u1
+ヴゅ	v1 y1 u1
+ゔょ	v1 y1 o1
+ヴョ	v1 y1 o1
+ヴょ	v1 y1 o1
+うゎ	w1 a1
+ウヮ	w1 a1
+え	e1
+エ	e1
+お	o1
+オ	o1
+か	k1 a1
+カ	k1 a1
+が	g1 a1
+ガ	g1 a1
+か゚	ng1 a1
+カ゚	ng1 a1
+か゜	ng1 a1
+カ゜	ng1 a1
+き	k1 i1
+キ	k1 i1
+ぎ	g1 i1
+ギ	g1 i1
+き゚	ng1 i1
+キ゚	ng1 i1
+き゜	ng1 i1
+キ゜	ng1 i1
+き゜ぇ	ng1 y1 e1
+キ゜ェ	ng1 y1 e1
+き゜ゃ	ng1 y1 a1
+キ゜ャ	ng1 y1 a1
+き゜ゅ	ng1 y1 u1
+キ゜ュ	ng1 y1 u1
+き゜ょ	ng1 y1 o1
+キ゜ョ	ng1 y1 o1
+きぇ	k1 y1 e1
+キェ	k1 y1 e1
+ぎぇ	g1 y1 e1
+ギェ	g1 y1 e1
+き゚ぇ	ng1 y1 e1
+キ゚ェ	ng1 y1 e1
+きゃ	k1 y1 a1
+キャ	k1 y1 a1
+ぎゃ	g1 y1 a1
+ギャ	g1 y1 a1
+き゚ゃ	ng1 y1 a1
+キ゚ャ	ng1 y1 a1
+きゅ	k1 y1 u1
+キュ	k1 y1 u1
+ぎゅ	g1 y1 u1
+ギュ	g1 y1 u1
+き゚ゅ	ng1 y1 u1
+キ゚ュ	ng1 y1 u1
+きょ	k1 y1 o1
+キョ	k1 y1 o1
+ぎょ	g1 y1 o1
+ギョ	g1 y1 o1
+き゚ょ	ng1 y1 o1
+キ゚ョ	ng1 y1 o1
+く	k1 u1
+ク	k1 u1
+ぐ	g1 u1
+グ	g1 u1
+く゚	ng1 u1
+ク゚	ng1 u1
+く゜	ng1 u1
+ク゜	ng1 u1
+くぁ	k1 w1 a1
+クァ	k1 w1 a1
+ぐぁ	g1 w1 a1
+グァ	g1 w1 a1
+くぃ	k1 w1 i1
+クィ	k1 w1 i1
+ぐぃ	g1 w1 i1
+グィ	g1 w1 i1
+くぇ	k1 w1 e1
+クェ	k1 w1 e1
+ぐぇ	g1 w1 e1
+グェ	g1 w1 e1
+くぉ	k1 w1 o1
+クォ	k1 w1 o1
+ぐぉ	g1 w1 o1
+グォ	g1 w1 o1
+くゎ	k1 w1 a1
+クヮ	k1 w1 a1
+ぐゎ	g1 w1 a1
+グヮ	g1 w1 a1
+け	k1 e1
+ケ	k1 e1
+げ	g1 e1
+ゲ	g1 e1
+け゚	ng1 e1
+ケ゚	ng1 e1
+け゜	ng1 e1
+ケ゜	ng1 e1
+こ	k1 o1
+コ	k1 o1
+ご	g1 o1
+ゴ	g1 o1
+こ゚	ng1 o1
+コ゚	ng1 o1
+こ゜	ng1 o1
+コ゜	ng1 o1
+さ	s1 a1
+サ	s1 a1
+ざ	z1 a1
+ザ	z1 a1
+し	sh1 i1
+シ	sh1 i1
+じ	j1 i1
+ジ	j1 i1
+しぇ	sh1 e1
+シェ	sh1 e1
+じぇ	j1 e1
+ジェ	j1 e1
+しゃ	sh1 a1
+シャ	sh1 a1
+じゃ	j1 a1
+ジャ	j1 a1
+しゅ	sh1 u1
+シュ	sh1 u1
+じゅ	j1 u1
+ジュ	j1 u1
+しょ	sh1 o1
+ショ	sh1 o1
+じょ	j1 o1
+ジョ	j1 o1
+す	s1 u1
+ス	s1 u1
+ず	z1 u1
+ズ	z1 u1
+すぃ	s1 i1
+スィ	s1 i1
+ずぃ	z1 i1
+ズィ	z1 i1
+せ	s1 e1
+セ	s1 e1
+ぜ	z1 e1
+ゼ	z1 e1
+そ	s1 o1
+ソ	s1 o1
+ぞ	z1 o1
+ゾ	z1 o1
+た	t1 a1
+タ	t1 a1
+だ	d1 a1
+ダ	d1 a1
+ち	ch1 i1
+チ	ch1 i1
+ぢ	dj1 i1
+ヂ	dj1 i1
+ちぇ	ch1 e1
+チェ	ch1 e1
+ぢぇ	dj1 e1
+ヂェ	dj1 e1
+ちゃ	ch1 a1
+チャ	ch1 a1
+ぢゃ	dj1 a1
+ヂャ	dj1 a1
+ちゅ	ch1 u1
+チュ	ch1 u1
+ぢゅ	dj1 u1
+ヂュ	dj1 u1
+ちょ	ch1 o1
+チョ	ch1 o1
+ぢょ	dj1 o1
+ヂョ	dj1 o1
+つ	ts1 u1
+っ	q1
+ツ	ts1 u1
+ッ	q1
+づ	dz1 u1
+ヅ	dz1 u1
+つぁ	ts1 a1
+ツァ	ts1 a1
+づぁ	dz1 a1
+ヅァ	dz1 a1
+つぃ	ts1 i1
+ツィ	ts1 i1
+づぃ	dz1 i1
+ヅィ	dz1 i1
+つぇ	ts1 e1
+ツェ	ts1 e1
+づぇ	dz1 e1
+ヅェ	dz1 e1
+つぉ	ts1 o1
+ツォ	ts1 o1
+づぉ	dz1 o1
+ヅォ	dz1 o1
+て	t1 e1
+テ	t1 e1
+で	d1 e1
+デ	d1 e1
+てぃ	t1 i1
+ティ	t1 i1
+でぃ	d1 i1
+ディ	d1 i1
+てゃ	t1 y1 a1
+テャ	t1 y1 a1
+でゃ	d1 y1 a1
+デャ	d1 y1 a1
+てゅ	t1 y1 u1
+テュ	t1 y1 u1
+でゅ	d1 y1 u1
+デュ	d1 y1 u1
+てょ	t1 y1 o1
+テョ	t1 y1 o1
+でょ	d1 y1 o1
+デョ	d1 y1 o1
+と	t1 o1
+ト	t1 o1
+ど	d1 o1
+ド	d1 o1
+とぅ	t1 u1
+トゥ	t1 u1
+どぅ	d1 u1
+ドゥ	d1 u1
+な	n1 a1
+ナ	n1 a1
+に	n1 i1
+ニ	n1 i1
+にぇ	n1 y1 e1
+ニェ	n1 y1 e1
+にゃ	n1 y1 a1
+ニャ	n1 y1 a1
+にゅ	n1 y1 u1
+ニュ	n1 y1 u1
+にょ	n1 y1 o1
+ニョ	n1 y1 o1
+ぬ	n1 u1
+ヌ	n1 u1
+ね	n1 e1
+ネ	n1 e1
+の	n1 o1
+ノ	n1 o1
+は	h1 a1
+ハ	h1 a1
+ば	b1 a1
+バ	b1 a1
+ぱ	p1 a1
+パ	p1 a1
+ひ	h1 i1
+ヒ	h1 i1
+び	b1 i1
+ビ	b1 i1
+ぴ	p1 i1
+ピ	p1 i1
+ひぇ	h1 y1 e1
+ヒェ	h1 y1 e1
+びぇ	b1 y1 e1
+ビェ	b1 y1 e1
+ぴぇ	p1 y1 e1
+ピェ	p1 y1 e1
+ひゃ	h1 y1 a1
+ヒャ	h1 y1 a1
+びゃ	b1 y1 a1
+ビャ	b1 y1 a1
+ぴゃ	p1 y1 a1
+ピャ	p1 y1 a1
+ひゅ	h1 y1 u1
+ヒュ	h1 y1 u1
+びゅ	b1 y1 u1
+ビュ	b1 y1 u1
+ぴゅ	p1 y1 u1
+ピュ	p1 y1 u1
+ひょ	h1 y1 o1
+ヒョ	h1 y1 o1
+びょ	b1 y1 o1
+ビョ	b1 y1 o1
+ぴょ	p1 y1 o1
+ピョ	p1 y1 o1
+ふ	f1 u1
+フ	f1 u1
+ぶ	b1 u1
+ブ	b1 u1
+ぷ	p1 u1
+プ	p1 u1
+ふぁ	f1 a1
+ファ	f1 a1
+ふぃ	f1 i1
+フィ	f1 i1
+ふぇ	f1 e1
+フェ	f1 e1
+ふぉ	f1 o1
+フォ	f1 o1
+ふゃ	f1 y1 a1
+フャ	f1 y1 a1
+ふゅ	f1 y1 u1
+フュ	f1 y1 u1
+ふょ	f1 y1 o1
+フョ	f1 y1 o1
+へ	h1 e1
+ヘ	h1 e1
+べ	b1 e1
+ベ	b1 e1
+ぺ	p1 e1
+ペ	p1 e1
+ほ	h1 o1
+ホ	h1 o1
+ぼ	b1 o1
+ボ	b1 o1
+ぽ	p1 o1
+ポ	p1 o1
+ほぅ	h1 u1
+ホゥ	h1 u1
+ま	m1 a1
+マ	m1 a1
+み	m1 i1
+ミ	m1 i1
+みぇ	m1 y1 e1
+ミェ	m1 y1 e1
+みゃ	m1 y1 a1
+ミャ	m1 y1 a1
+みゅ	m1 y1 u1
+ミュ	m1 y1 u1
+みょ	m1 y1 o1
+ミョ	m1 y1 o1
+む	m1 u1
+ム	m1 u1
+め	m1 e1
+メ	m1 e1
+も	m1 o1
+モ	m1 o1
+や	y1 a1
+ヤ	y1 a1
+ゆ	y1 u1
+ユ	y1 u1
+ゆぃ	y1 i1
+ユィ	y1 i1
+よ	y1 o1
+ヨ	y1 o1
+ら	r1 a1
+ラ	r1 a1
+ら゜	l1 a1
+ラ゜	l1 a1
+り	r1 i1
+リ	r1 i1
+り゜	l1 i1
+リ゜	l1 i1
+り゜ぇ	l1 y1 e1
+リ゜ェ	l1 y1 e1
+り゜ゃ	l1 y1 a1
+リ゜ャ	l1 y1 a1
+り゜ゅ	l1 y1 u1
+リ゜ュ	l1 y1 u1
+り゜ょ	l1 y1 o1
+リ゜ョ	l1 y1 o1
+りぇ	r1 y1 e1
+リェ	r1 y1 e1
+りゃ	r1 y1 a1
+リャ	r1 y1 a1
+りゅ	r1 y1 u1
+リュ	r1 y1 u1
+りょ	r1 y1 o1
+リョ	r1 y1 o1
+る	r1 u1
+ル	r1 u1
+る゜	l1 u1
+ル゜	l1 u1
+れ	r1 e1
+レ	r1 e1
+ろ	r1 o1
+ロ	r1 o1
+ろ゜	l1 o1
+ロ゜	l1 o1
+わ	w1 a1
+ワ	w1 a1
+わ゛	v1 a1
+ワ゛	v1 a1
+ゐ	i1
+ヰ	i1
+ゐ゛	v1 i1
+ヰ゛	v1 i1
+ゑ	e1
+ヱ	e1
+ゑ゛	v1 e1
+ヱ゛	v1 e1
+を	o1
+ヲ	o1
+を゛	v1 o1
+ヲ゛	v1 o1
+ん	nn1
+ン	nn1
