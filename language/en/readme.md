@@ -136,11 +136,9 @@
 |  4~    | ɾ̃   |  n2, n3, n3 t2, n3 t3  | winner~winter (US) | w I 4~ @` |
 |  z     | z   |  z1, z2, z3      | zoo       | z u w           |
 |  s     | s   |  s1, s2, s3      | sue       | s u w           |
+|  D~    | n̪   |  n3, n3 dh1      | then the  | D E D~ @        |
 |  D     | ð   |  dh1, dh2, dh3   | then      | D E n           |
 |  T     | θ   |  th1, th2, th3   | thin      | T I n           |
-|  d\    | d̠   |  d1, d2          | drip      | d\ r I p        |
-|  t\    | t̠   |  t1, t2          | strip     | S t\ r I p      |
-|  t\_h  | t̠ʰ  |  t1, t2          | trip      | t\_h r I p      |
 |  dZ    | dʒ  |  j1, j2, j3      | jip       | dZ I p          |
 |  tS    | tʃ  |  ch2, ch3        | hatchet   | h { tS I t      |
 |  tS_h  | tʃʰ |  ch1, ch2        | chip      | tS_h I p        |
