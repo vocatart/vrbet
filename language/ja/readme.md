@@ -21,10 +21,6 @@
 |  N  |   nn   |   ん・ン  | nn1 |
 |  Q  |   q    |   っ・ッ  | q1  |
 
-- While not technically vowels, the sounds /N/ and /Q/ represent a moraic nasal and obstruent respectively.  
-  These sounds are typically pronounced homorganic with the following consonant. When followed by a vowel or pause,
-  /N/ is commonly realized as a nasalized glide, and /Q/ is realized as a glottal stop.
-
 ## Consonants
   
 1 = Word Initial Onset  
@@ -52,10 +48,6 @@
 |  ɾ   |   r    |   ら・ラ   | r1 a1  |　りゅ・リュ | r1 y1 u1 |
 |  w   |   w    |   わ・ワ   | w1 a1  |　うぃ・ウィ | w1 i1 |
 
-- Traditionally /ɕ, ʑ, tɕ/ are not analyzed true phonemes, but rather as allophones of /s, z, t/ followed by /i/ or /j/.  
-  /ts/ and /ɸ/ are also traditionally considered allophones of /t/ and /h/ before /ɯ/.
-  However the introduction of western loanwords into Japanese have made many linguists consider these sounds as now phonemic.
-
 ### Non-Phonemic/Marginal Consonants
 
 | IPA  | Symbol | Example 1 |        | Example 2  |        |
@@ -65,13 +57,3 @@
 |  β   |   v    |   ゔ・ヴ   | v1 u1  |　ゔゅ・ヴュ | v1 y1 u1 |
 |  ŋ   |   ng   |   か゚・カ゚   | ng1 a1 |　き゚ゅ・キ゚ュ | ng1 y1 u1 |
 |  l   |   l    |  ら゜・ラ゜| l1 a1 | り゜ゅ・リ゜ュ | l1 y1 u1 |
-
-- /dʑ/ and /dz/ have merged with /ʑ/ and /z/ in Standard Japanese, often in free variation resulting in two phonemes /dʑ ~ ʑ/ and /dz ~ z/
-  Some regional dialects may still distinguish all four consonants, while others may merge all four into one.
-- [β] is a fricative realization of /b/ used only in the approximation of foreign /v/ in loanwords such as ヴァイオリン "violin".  
-  Most speakers do not distinguish this sound from a stop /b/
-- [ŋ] is an allophone of word-medial /g/. Its presence in speech is associated with prestigious Eastern Japanese dialect,  
-  similar to old RP in England. Its actual usage in day-to-day contemporary Japanese is waning.
-- [l] is a possible realization of /ɾ/, although it is rarely distinguished.  
-  Japanese speakers who distinguish it are typically fluent in English or another secondary language with /l/ as a phoneme.
-  
