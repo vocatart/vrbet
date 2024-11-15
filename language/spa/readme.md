@@ -14,10 +14,6 @@
 |  o  |   o    |   poso    | p1 o1 s2 o2 |   posó    | p1 o2 s2 o1 |
 |  u  |   u    |   pujo    | p1 u1 j2 o2 |   pujó    | p1 u2 j2 o1 |
 
-- Unstressed /e, i, o, u/ commonly become rising glides when followed by a vowel of equivalent or more open height, even across word boundaries.
-- Unstressed /i/ and /u/ become falling glides when preceded by /a, e, o/
-- Diphthong /iu/ is always [ju]. Diphthong /ui/ is most commonly [wi], but may also be [uj] in words written with "uy" as in "muy"
-
 ## Consonants
 
 1 = Word Initial Onset  
@@ -45,12 +41,6 @@
 |  l  |   l    |   Lalo    | l1 a1 l2 o2        |   calo    | k1 a1 l2 o2  |
 |  r  |   rr   |   raro    | rr1 a1 r2 o2       |   carro   | k1 a1 rr2 o2 |
 |  ɾ  |   r    |   raro    | rr1 a1 r2 o2       |   caro    | k1 a1 r2 o2  |
-
-- /θ/ has merged into /s/ in all dialects outside of Spain. Some speakers in southern Spain merge /s/ into /θ/.
-- A merger of /ʎ/ into /ʝ/ originated in southern Spain and spread to descendant dialects throughout most of Latin America.
-  The distinction between the two is less common in Spain, but is still retained by some northern speakers.
-  The distinction is still robust in regions that contain /ʎ/ as a phoneme in their native languages such as in Andean Spanish,
-  Or also where it was approximated as /lj/ as in the Phillipines.
 
 ### Non-Phonemic/Marginal Consonants
 
