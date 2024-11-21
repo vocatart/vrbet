@@ -35,7 +35,7 @@
 |  x  |   j    |   jaja    | j1 a1 j2 a2        |   caja    | k1 a1 j2 a2  |
 |  m  |   m    |   mamá    | m1 a2 m2 a1        |   cama    | k1 a1 m2 a2  |
 |  n  |   n    |   nana    | n1 a1 n2 a2        |   cana    | k1 a1 n2 a2  |
-|  ñ  |   nh   |   ñaña    | nh1 a1 nh2 a2      |   caña    | k1 a1 nh2 a2 |
+|  ɲ  |   nh   |   ñaña    | nh1 a1 nh2 a2      |   caña    | k1 a1 nh2 a2 |
 |  ʝ  |   y    |   yeísmo  | y1 e2 i1 s3 m2 o2  |   cayo    | k1 a1 y2 o2  |
 |  ʎ  |   ll   |   lleísmo | ll1 e2 i1 s3 m2 o2 |   callo   | k1 a1 y2 o2  |
 |  l  |   l    |   Lalo    | l1 a1 l2 o2        |   calo    | k1 a1 l2 o2  |
