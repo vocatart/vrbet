@@ -1,11 +1,11 @@
 # Chinese (Mandarin) VrBet
 
 ## Vowels
-0 = Nonsyllabic (SVS)
+0 = Nonsyllabic (SVS)  
 1 = Syllabic (SVS), High Tone  (TTS)  
 2 = Rising Tone (TTS)  
 3 = Low Tone (TTS)  
-4 = Falling Tone (TTS)
+4 = Falling Tone (TTS)  
 5 = Neutral Tone (TTS)  
 
 | IPA | VrBet  | Pinyin | Zhuyin |
