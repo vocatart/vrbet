@@ -32,7 +32,7 @@
 |  f  |   f    |   fofo    | f1 o1 f2 o2        |   café    | k1 a2 f2 e1  |
 |  θ  |   z    |   ceceo   | z1 e2 z2 e1 o2     |   caza    | k1 a1 z2 a2  |
 |  s  |   s    |   seseo   | s1 e1 s2 e1 o2     |   casa    | k1 a1 s2 a2  |
-|  x  |   j    |   jaja    | j1 a1 j2 a2        |   caja    | k1 a1 x2 a2  |
+|  x  |   j    |   jaja    | j1 a1 j2 a2        |   caja    | k1 a1 j2 a2  |
 |  m  |   m    |   mamá    | m1 a2 m2 a1        |   cama    | k1 a1 m2 a2  |
 |  n  |   n    |   nana    | n1 a1 n2 a2        |   cana    | k1 a1 n2 a2  |
 |  ñ  |   nh   |   ñaña    | nh1 a1 nh2 a2      |   caña    | k1 a1 nh2 a2 |
@@ -52,6 +52,3 @@
 |  ɹ  |   rh   |  rocker   | rh1 o1 k2 e2 rh3     |  rugby    | rh1 a1 g3 b2 i2       |
 |  h  |   h    |  hobby    | h1 o1 b2 i2          |  hippy    | h1 i1 p2 i2           |
 |  ʔ  |   q    |  ma' alto | m1 a1 q3 a1 l3 t2 o2 |  e'pañol  | e2 q3 p2 a2 nh2 o1 l3 |
-
-- These sounds are used in dialect-specific allophones or in English loanwords by speakers who distinguish their pronunciation from
-  that of native Spanish phonemes.
