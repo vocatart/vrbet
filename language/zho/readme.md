@@ -1,11 +1,12 @@
 # Chinese (Mandarin) VrBet
 
 ## Vowels
-0 = Unstressed (SVS), Neutral Tone (TTS)  
-1 = Stressed (SVS), High Tone  (TTS)  
+0 = Nonsyllabic (SVS)
+1 = Syllabic (SVS), High Tone  (TTS)  
 2 = Rising Tone (TTS)  
 3 = Low Tone (TTS)  
 4 = Falling Tone (TTS)
+5 = Neutral Tone (TTS)  
 
 | IPA | VrBet  | Pinyin | Zhuyin |
 |:---:|:------:|:------:|:------:|
@@ -17,16 +18,6 @@
 | u   |   u    |   wu   |   ㄨ   |
 | y   |   iu   |   yu   |   ㄩ   |
 | ɨ   |   ix   |   i    |   ㄭ   |
-
-### Semivowels
-1 = Rising  
-3 = Fallng
-
-| IPA | VrBet  | Pinyin | Zhuyin |
-|:---:|:------:|:------:|:------:|
-| i   |   y    |   yi   |   ㄧ   |
-| u   |   w    |   wu   |   ㄨ   |
-| y   |   yw   |   yu   |   ㄩ   |
 
 ## Consonants
 1 = Word Initial Onset  
