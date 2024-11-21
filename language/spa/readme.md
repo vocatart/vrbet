@@ -37,7 +37,7 @@
 |  n  |   n    |   nana    | n1 a1 n2 a2        |   cana    | k1 a1 n2 a2  |
 |  ɲ  |   nh   |   ñaña    | nh1 a1 nh2 a2      |   caña    | k1 a1 nh2 a2 |
 |  ʝ  |   y    |   yeísmo  | y1 e2 i1 s3 m2 o2  |   cayo    | k1 a1 y2 o2  |
-|  ʎ  |   ll   |   lleísmo | ll1 e2 i1 s3 m2 o2 |   callo   | k1 a1 y2 o2  |
+|  ʎ  |   ll   |   lleísmo | ll1 e2 i1 s3 m2 o2 |   callo   | k1 a1 ll2 o2  |
 |  l  |   l    |   Lalo    | l1 a1 l2 o2        |   calo    | k1 a1 l2 o2  |
 |  r  |   rr   |   raro    | rr1 a1 r2 o2       |   carro   | k1 a1 rr2 o2 |
 |  ɾ  |   r    |   raro    | rr1 a1 r2 o2       |   caro    | k1 a1 r2 o2  |
