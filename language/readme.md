@@ -3,10 +3,12 @@
 | Label | Usage |
 |:-----:|:------|
 |  sil  | Silence |
-|  pau  | Short Pause |
-|  bre  | Breath, Inhale  |
-|  asp  | Non-phonemic Aspiration, Exhale |
-|  glo  | Non-phonemic Glottal Stop |
-|  fry  | Non-phonemic Glottal Fry |
+|  inh  | Inhale |
+|  exh  | Exhale  |
+|  asp  | (SVS) Aspiration |
+|  bre  | (SVS) Breathy Voice |
+|  cre  | (SVS) Creaky Voice |
+|  glo  | (SVS) Glottal |
+|  pau  | (TTS) Pause |
 |  que  | (TTS) Question |
 |  exc  | (TTS) Exclamation |
