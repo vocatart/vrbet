@@ -8,7 +8,7 @@
 |  asp  | (SVS) Aspiration |
 |  bre  | (SVS) Breathy Voice |
 |  cre  | (SVS) Creaky Voice |
-|  glo  | (SVS) Glottal |
+|  glo  | (SVS) Glottal Closure |
 |  pau  | (TTS) Pause |
 |  que  | (TTS) Question |
 |  exc  | (TTS) Exclamation |
