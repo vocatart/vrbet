@@ -1,3 +1,11 @@
+# French VrBet
+
+## Vowels
+
+0 = Schwa/Non-syllabic  
+1 = Short  
+2 = Long  
+
 | IPA | Symbol | Example |              |
 |:---:|:------:|:-------:|:-------------|
 | a   | a1     | patte   | p1 a1 t3     |
@@ -25,10 +33,10 @@
 | œ̃   | un1    | brun    | b1 r1 un1    |
 
 ## Consonants
-1 = Word Initial Onset 
-2 = Word Medial Onset 
-3 = Syllable Coda
-4 = Liaison
+1 = Word Initial Onset  
+2 = Word Medial Onset  
+3 = Syllable Coda  
+4 = Liaison  
 
 | IPA | Symbol | Example |              |
 |:---:|:------:|:-------:|:-------------|
