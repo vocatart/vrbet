@@ -14,7 +14,7 @@
 | ɛː  | ai2    | maître  | m1 ai2 t3 r3 e0 |
 | ᵊ   | e0     | rose    | r1 o1 z3 e0     |
 | ə   | e1     | le      | l1 e1           |
-| e   | e2     | rosé    | r1 o1 z2 e2     |
+| eː  | e2     | rosé    | r1 o1 z2 e2     |
 | œ   | eu1    | jeune   | j1 eu1 n3 e0    |
 | øː  | eu2    | jeûne   | j1 eu2 n3 e0    |
 | j   | i0     | hier    | i0 ai1 r3       |
